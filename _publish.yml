@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 9a622ef7-afce-4693-b7a8-9f84492cc59b
+      url: 'https://hippototo.quarto.pub/sensornetworks-bamboo'
